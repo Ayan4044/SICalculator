@@ -1,4 +1,4 @@
-# SICalculator
+# Simple Interest Calculator
 
 A basic Flutter project.
 
