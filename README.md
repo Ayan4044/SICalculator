@@ -2,7 +2,7 @@
 
 A Simple Interest Flutter project.
 
-![alt text](https://github.com/Ayan4044/SICalculator/blob/development/images/demo.png?raw=true)
+![Screenshot](https://github.com/Ayan4044/SICalculator/blob/devlopment/images/demo.png)
 
 ## Getting Started
 
