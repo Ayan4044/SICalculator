@@ -1,6 +1,8 @@
 # SICalculator
 
-A new Flutter project.
+A Simple Interest Flutter project.
+
+![alt text](https://github.com/Ayan4044/SICalculator/blob/development/images/demo.png?raw=true)
 
 ## Getting Started
 
